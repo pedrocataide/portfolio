@@ -1,0 +1,165 @@
+/* Start of header */
+.header
+{
+	margin-top: 55px;
+	margin-bottom: 60px;
+}
+
+
+
+img.logo
+{
+	width: 210px;
+}
+
+img.flag
+{
+	width: 20px;
+	height: 20px;
+}
+
+.pull-right
+{
+	text-align: right;
+}
+
+.header span 
+{
+	margin-right: 10px;
+}
+
+@media screen and (min-width: 992px)
+{
+	#header-right{
+		position: relative;
+		top: 100px;
+	}
+}
+
+/* End of header*/
+
+
+
+ul.navbar-nav
+{
+	float: none;
+
+}
+
+ul.navbar-nav li
+{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+
+
+.margin100
+{
+	margin: 100px;
+}
+
+.margin40
+{
+	margin-top: 40px;
+}
+
+.margin435
+{
+	margin-bottom: 435px;
+}
+
+.footer
+{
+	padding: 10px;
+	color: #fff;
+	background-color: #363C3D;
+	margin-bottom: 0px;
+	border: 100%;
+
+}
+.footer a
+{
+	color: #fff;
+}
+
+#midbuttons
+{
+	cursor: pointer;
+
+}
+
+#midbuttons2
+{
+	cursor: pointer;
+
+}
+
+#events
+{
+	cursor: pointer;
+
+}
+.width250
+{
+	width: 250px;
+}
+
+.width380
+{
+	width: 380px;
+}
+
+ul.nav-sidebar li.active
+{
+	background-color: #cce5ff;
+}
+
+#english
+{
+	cursor: pointer;
+}
+
+#portuguese
+{
+	cursor: pointer;
+}
+
+ul.listLicenciaturas li
+{
+	cursor: pointer;
+}
+
+#listLicenciaturas a
+{
+	color: #000;
+}
+
+.margin310
+{
+	margin-bottom: 340px
+}
+
+.img-rounded
+{
+	width: 359px;
+	margin-top: 35px;
+}
+
+.margin100
+{
+	margin-bottom: 100px;
+}
+
+.listbox
+{
+	float: right;
+}
+
+#skiptocontent {
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  overflow: hidden;
+  top: -10px;
+}
